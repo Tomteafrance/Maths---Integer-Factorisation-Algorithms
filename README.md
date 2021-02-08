@@ -1,6 +1,6 @@
-# Maths---Integer-Factorisation-Algorithms
+# Maths - Integer Factorisation Algorithms
 
-Factorisation en nombre premiers 
+## Factorisation en nombre premiers 
 
 Le but de ce projet est de comparer l'efficacité de plusieurs méthodes différentes pour décomposer un nombre en produit de facteurs premiers.
 
